@@ -9,7 +9,7 @@
 </p>
 <h3>Template</h3>
 <p align="center">
-  <img src="https://github.com/Akriti31/Waldo-Puzzle/blob/master/d1FY3.png" width="350"/>
+  <img src="https://github.com/Akriti31/Waldo-Puzzle/blob/master/d1FY3.png"/>
 </p>
 <h3>Result</h3>
 <p align="center">
